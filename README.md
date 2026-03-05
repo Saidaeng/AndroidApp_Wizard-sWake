@@ -55,10 +55,8 @@ The goal of this project was to create a more complete and engaging Android game
 
 ## Screenshots
 
-<img src="https://drive.google.com/uc?export=view&id=1HgIa101OEKXwHWhnj6DwmsRq0mNuyrY0" width="250">
-<img src="https://drive.google.com/uc?export=view&id=18iYErA8O20JjU5OmszKFTsKBjgN0xbmz" width="250">
-<img src="https://drive.google.com/uc?export=view&id=1W7GshBaLWmAgiDs1wMlOWHMcQcZSM9TA" width="250">
-<img src="https://drive.google.com/uc?export=view&id=1rRwrk4qGBXmz94i7Kdl15QUIdDi-vxow" width="250">
+<img src="https://drive.google.com/uc?export=view&id=1HgIa101OEKXwHWhnj6DwmsRq0mNuyrY0" width="250">   <img src="https://drive.google.com/uc?export=view&id=18iYErA8O20JjU5OmszKFTsKBjgN0xbmz" width="250">
+<img src="https://drive.google.com/uc?export=view&id=1W7GshBaLWmAgiDs1wMlOWHMcQcZSM9TA" width="250">   <img src="https://drive.google.com/uc?export=view&id=1rRwrk4qGBXmz94i7Kdl15QUIdDi-vxow" width="250">
 
 ---
 
