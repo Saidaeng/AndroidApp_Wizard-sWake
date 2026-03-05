@@ -14,6 +14,8 @@ The objective was to design and develop an Android mobile application based on a
 Our team redesigned and extended an existing game concept called **IHaveToFly**, transforming it into a fantasy-themed game titled **Wizard's Wake**, inspired by the Harry Potter novel and film series.  
 The project focused on improving both gameplay functionality and user experience through additional features and a more cohesive visual design.
 
+The entire application was developed using Android Studio.
+
 ---
 
 ## Problem
